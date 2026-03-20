@@ -1,0 +1,15 @@
+# Visual Studio 临时文件
+.vs/
+*.slnx
+*.suo
+*.user
+
+# 编译输出
+*.exe
+*.dll
+*.o
+*.obj
+
+# 系统文件
+Thumbs.db
+.DS_Store
